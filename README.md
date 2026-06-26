@@ -1,5 +1,5 @@
-🚗 Car Price Prediction using Machine Learning
-📌 Project Overview
+Car Price Prediction using Machine Learning
+
 
 This project develops a Machine Learning Regression model to predict the selling price of cars based on their technical specifications and design features. The project was built using Python and several regression algorithms to identify the key factors that influence car prices and generate accurate price predictions.
 
@@ -7,7 +7,7 @@ The project simulates a real-world business scenario where Geely Auto, a Chinese
 
 Through Exploratory Data Analysis (EDA), Statistical Testing, Feature Engineering, and Machine Learning, this project provides data-driven insights that can support pricing strategy, product planning, and market positioning.
 
-🎯 Business Problem
+Business Problem :-
 
 Geely Auto intends to establish its manufacturing operations in the United States and compete with well-established American and European automobile companies.
 
@@ -19,7 +19,7 @@ How to price their vehicles competitively while maintaining profitability.
 
 Without these insights, the company risks overpricing or underpricing its products, leading to reduced sales or lower profit margins.
 
-🎯 Project Objective
+Project Objective:-
 
 The primary objective of this project is to build a machine learning model capable of accurately predicting car prices using vehicle specifications.
 
@@ -29,7 +29,7 @@ Identify the most influential factors affecting car prices.
 Analyze relationships between different vehicle features and selling price.
 Compare multiple regression algorithms to determine the best-performing model.
 Provide actionable business insights that help manufacturers make informed pricing and product development decisions.
-📊 Dataset Description
+Dataset Description:-
 
 The dataset contains 205 car records with 26 features, including both numerical and categorical variables. The target variable is Price, while the remaining columns describe various technical and physical characteristics of the vehicles.
 
@@ -70,7 +70,7 @@ Seaborn
 SciPy
 Statsmodels
 Scikit-learn
-🔄 Project Workflow
+ Project Workflow:-
 1. Data Understanding
 
 The first step involved understanding the dataset, identifying numerical and categorical variables, checking data types, and studying the business meaning of each feature.
@@ -210,7 +210,7 @@ R² Score
 
 These metrics were used to compare model performance and identify the most accurate algorithm for predicting car prices.
 
-📌 Key Insights
+Key Insights
 
 The analysis revealed several important business insights:
 
